@@ -19,7 +19,7 @@ const featureLinksData = [
     alt: "Visual Ideas Icon",
   },
   {
-    link: "/meusLinks/public/CURRÍCULO.pdf",
+    link: "/meusLinks/CURRÍCULO.pdf",
     titleLink: "Meu Currículo",
     urlIcon: "/meusLinks/assets/icon/Pen.svg",
     alt: "Newsletter Icon",
