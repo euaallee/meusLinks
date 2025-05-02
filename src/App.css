@@ -10,10 +10,11 @@
 main {
 
     button {
-        z-index: 2;
-        position: fixed;
         display: flex;
-        bottom: 6rem;
+        position: absolute;
+        top: 1.5rem;
+        right: 1.5rem;
+        
         align-items: center;
         justify-content: center;
         font-size: 2rem;
